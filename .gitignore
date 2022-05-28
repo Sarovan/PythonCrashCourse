@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+learnpy/pyvenv.cfg
+learnpy/Scripts/activate
+learnpy/Scripts/activate.bat
+learnpy/Scripts/Activate.ps1
+learnpy/Scripts/black.exe
+learnpy/Scripts/blackd.exe
+learnpy/Scripts/deactivate.bat
+learnpy/Scripts/pip.exe
+learnpy/Scripts/pip3.10.exe
+learnpy/Scripts/pip3.exe
+learnpy/Scripts/python.exe
+learnpy/Scripts/pythonw.exe
