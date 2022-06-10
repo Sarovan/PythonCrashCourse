@@ -1,1 +1,1 @@
-message=input()
+message=input("What is your name?")
